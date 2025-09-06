@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -31,6 +34,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/A портфолио/проект с анимацией/project_1 — с библиотеками/css/main.css",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -59,7 +63,7 @@
       <updated>1756993358798</updated>
       <workItem from="1756993359996" duration="13047000" />
       <workItem from="1757052939807" duration="563000" />
-      <workItem from="1757068773924" duration="13008000" />
+      <workItem from="1757068773924" duration="13639000" />
     </task>
     <servers />
   </component>
