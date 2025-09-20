@@ -12,7 +12,7 @@ window.addEventListener('scroll', () => {
 
 function openBotim() {
     // 1. Пытаемся открыть приложение напрямую
-    window.location.href = 'botim://app/chat?number=79958830193 ';
+    window.location.href = 'botim://app/chat?number=79958830193';
     
     // 2. Если приложения нет, через 500ms пользователь будет перенаправлен на страницу установки
     setTimeout(function() {
